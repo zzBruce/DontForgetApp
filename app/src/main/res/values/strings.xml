@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DontForget</string>
+    <string name="DontForgetDB">DontForget.1_0.zz.db</string>
+    <string name="activity_main_linearlayout_bottom_1_button_string">列表</string>
+    <string name="activity_main_linearlayout_bottom_2_button_string">编辑</string>
+    <string name="activity_main_linearlayout_bottom_3_button_string">统计</string>
+</resources>
